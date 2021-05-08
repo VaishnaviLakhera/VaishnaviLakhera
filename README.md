@@ -46,9 +46,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-K-code&layout=compact&theme=tokyonight)
 
 ![Vaishnavi's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=VaishnaviLakhera)
-![Siddhant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siddhant_k_code&layout=compact)
+![Vaishnavi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VaishnaviLakhera&layout=compact)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddhant-K-code&theme=github&count_private=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VaishnaviLakhera&theme=github&count_private=true)  
 
 
 <p align="center">
