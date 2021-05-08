@@ -37,7 +37,7 @@
 
 <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">&nbsp;&nbsp;<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">&nbsp;&nbsp;<img height="24" 
 
-<img src="https://github-profile-trophy.vercel.app/?username=Siddhant-K-code&theme=onedark&column=3&margin-w=15&margin-h=15">
+<img src="https://github-profile-trophy.vercel.app/?username=VaishnaviLakhera&theme=onedark&column=3&margin-w=15&margin-h=15">
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviLakhera&theme=tokyonight&count_private=true)
