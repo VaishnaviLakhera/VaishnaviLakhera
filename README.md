@@ -40,10 +40,10 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Siddhant-K-code&theme=onedark&column=3&margin-w=15&margin-h=15">
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddhant-K-code&theme=tokyonight&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviLakhera&theme=tokyonight&count_private=true)
 
-![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=Siddhant-K-code&show_icons=true&hide_border=true&theme=tokyonight&count_private=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-K-code&layout=compact&theme=tokyonight)
+![Vaishnavi's github stats](https://github-readme-stats.vercel.app/api?username=VaishnaviLakhera&show_icons=true&hide_border=true&theme=tokyonight&count_private=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviLakhera&layout=compact&theme=tokyonight)
 
 ![Vaishnavi's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=VaishnaviLakhera)
 ![Vaishnavi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VaishnaviLakhera&layout=compact)
