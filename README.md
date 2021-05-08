@@ -55,8 +55,8 @@
 <a href="https://github.com/VaishnaviLakhera?tab=followers">
     <img src="https://img.shields.io/github/followers/VaishnaviLakhera?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=VaishnaviLakhera">
-    <img src="https://img.shields.io/twitter/follow/VaishnaviLakhera?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="https://twitter.com/Vaishnvi_">
+    <img src="https://twitter.com/Vaishnvi_?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
     
  </p>
