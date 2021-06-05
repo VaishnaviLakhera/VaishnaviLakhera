@@ -26,7 +26,7 @@
 - ♥️ I Like to write the logic which make your application work .
 - -🐱‍🏍  Fun fact: Is it weird that even now I want to live inside a candy house in the continent made up of chocolates.
 
-> 🐱‍💻 Not very active in Competitive Programming anymore, but if I get time or feeling, I do :)
+> 🐱‍💻 Not very active in Competitive Programming , but if I get time or feeling, I do :)
 
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
