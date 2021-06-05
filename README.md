@@ -24,6 +24,8 @@
 - 🏫 I am a Senior pursuing a Bachelor’s degree in Computer Sciences from the Global Engineering College, Jabalpur (M.P.) [2022].
 - ⚡️ My expertise primarily revolves around Python, MYSQL, Data Analytics, Django, Tableau, Power BI and a bit about ML.
 - ♥️ I Like to write the logic which make your application work .
+- -🐱‍🏍  Fun fact: Is it weird that even now I want to live inside a candy house in the continent made up of chocolates.
+
 > 🐱‍💻 Not very active in Competitive Programming anymore, but if I get time or feeling, I do :)
 
 
