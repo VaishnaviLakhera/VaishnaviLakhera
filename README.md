@@ -48,7 +48,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviLakhera&layout=compact&theme=tokyonight)
 
 ![Vaishnavi's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=VaishnaviLakhera)
-![Vaishnavi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VaishnaviLakhera&layout=compact)
+<!--[Vaishnavi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VaishnaviLakhera&layout=compact)-->
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VaishnaviLakhera&theme=github&count_private=true)  
 
